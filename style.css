@@ -1,8 +1,24 @@
 body {
-    background: blue; 
+    background: yellow; 
     color: white; 
+    margin: 0px;
 }
 
 header {
-    border-bottom: solid 2px white
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 32px;
+    color: black;
+     
+    
+   
 }
+
+section{
+     background: rebeccapurple;
+     padding-top: 80px; 
+     padding-bottom: 88px;
+     display: flex;
+     justify-content:center ;
+}
+
