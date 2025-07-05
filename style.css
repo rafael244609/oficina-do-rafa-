@@ -20,5 +20,8 @@ section{
      padding-bottom: 88px;
      display: flex;
      justify-content:center ;
+     h1{
+        font-size: 40px;
+     }
 }
 
