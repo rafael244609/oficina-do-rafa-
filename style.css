@@ -23,5 +23,8 @@ section{
      h1{
         font-size: 40px;
      }
+     img{
+     height: 200px;
+        }
 }
 
